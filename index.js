@@ -108,7 +108,12 @@ window.onload = function () {
         "q": "Tôi là Tân!",
         "a": "Dạ,em xin chào anh Tân ạ!",
         "context": ["Tôi là Tân","tôi là", "là tôi", "chào em", "tân"]
-      }
+      },
+      {
+        "q": "Học phần kỹ năng viết báo cáo dự kiến do ai giảng dạy?",
+        "a": "Học phần kỹ năng viết báo cáo dự kiến sẽ được cô TS.Nguyễn Thu Hà giảng dạy.Theo cảm nhận của các bạn học viên,Cô Hà rất tâm huyết với sinh viên!",
+        "context": ["kỹ năng viết báo cáo","báo cáo", "giảng dạy", "học phần kỹ năng viết báo cáo"]
+      },
 
     ]
 
